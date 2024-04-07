@@ -8,13 +8,9 @@ redirect_from:
 ---
 
 <p align="justify">  
-I am a PhD candidate in Economics at the University of Amsterdam. My advisors are <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a> and <a href="https://personal.vu.nl/b.vander.klaauw/" style="color: black;">Bas van der Klaauw</a>.
-</p>
-<p align="justify">
-I am an empirical microeconomist with an interest in the economics of education and health economics. I use quasi-experimental methods to estimate the effects of policy reforms using administrative and survey data.
+I am a student in the Research Master in Legal Research at Utrecht University.
 </p>
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
-- [Quantitative Economics Doctorate Jamboree](https://www.econ.ku.dk/qed/), 24-25 May, Amsterdam, the Netherlands
-- [Workshop on Immigration, Health, and Wellbeing](https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?A2=HEALTHECON-ALL%3B8ba3692.2402&utm_source=dlvr.it&utm_medium=twitter), 13-14 June, Verona, Italy 
-- [Workshop on Economics of Education](https://www.uandes.cl/workshop-on-economics-of-education/), 20-23 August, Valle Nevado, Chile
+- [ESELS Annual Conference The European Society for Empirical Legal Studies](https://esels.eu/conference/esels-conference-elche-2024/), 20-21 June, Elche, Spain
+- [12th Biennial Conference of the ECPR Group on the European Union European Consortium for Political Research](https://ecpr.eu/Events/250), 19-21 June, Lisbon, Portugal
