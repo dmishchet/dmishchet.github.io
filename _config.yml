@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stanislav Avdeev"
+title                    : "Dmitrii Shchetinin"
 title_separator          : "-"
-name                     : &name "Stanislav Avdeev" 
+name                     : &name "Dmitrii Shchetinin" 
 description              : &description "personal description"
-url                      : https://stnavdeev.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dmishchet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stnavdeev/stnavdeev.github.io"
+repository               : "dmishchet/dmshchet.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stanislav Avdeev"
+  name             : "Dmitrii Shchetinin"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Economics. Empirical microeconomist"
-  location         : #"Amsterdam, the Netherlands"
+  bio              : "Master students in Law"
+  location         : #"Utrecht, the Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=x3DcAjcAAAAJ&view_op=list_works&gmla=AJsN-F4DdDk33CNdv33Jn7owyyj1VmjJmvi2Nu-IeYa953bnWwBKG8viZ7BUUfKKH6PjgnYaWdqY0cnHhPjKBEPDfybuJqzTZk-bR19WHwFDCTRVqPjZCNg"
-  email            : "stnavdeev@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=x3DcAjcAAAAJ&view_op=list_works&gmla=AJsN-F4DdDk33CNdv33Jn7owyyj1VmjJmvi2Nu-IeYa953bnWwBKG8viZ7BUUfKKH6PjgnYaWdqY0cnHhPjKBEPDfybuJqzTZk-bR19WHwFDCTRVqPjZCNg"
+  email            : "dmishchet@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stnavdeev"
+  github           : "dmischet"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "stnavdeev"
+  twitter          : #"dmischet"
   vine             :
   weibo            :
   xing             :
