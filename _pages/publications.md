@@ -19,7 +19,7 @@ My research interests lie in the field of empirical legal studies.
   <details>
     <summary style="padding-left: 30px;"> Abstract </summary>
     <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
-      Abstract
+      Text
     </p>
   </details>
 
@@ -29,7 +29,7 @@ My research interests lie in the field of empirical legal studies.
   <details>
     <summary style="padding-left: 30px;"> Abstract </summary>
     <p align="justify" style="padding-left: 30px; margin-bottom: 0px;">  
-      Abstract
+      Text
     </p>
   </details>
 
