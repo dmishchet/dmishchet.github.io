@@ -29,7 +29,7 @@ My research interests lie in the field of quantitative empirical legal studies, 
     </p>
   </details>
 
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">Case Law Trends on Recognition and Enforcement of Foreign Arbitral Awards in the Russian Federation (in Russian) </h3> 
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://www.stnavdeev.com/Avdeev_Collaboration.pdf">Case Law Trends on Recognition and Enforcement of Foreign Arbitral Awards in the Russian Federation (in Russian) </a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;">Matters of Russian and International Law, 2020</p>
   
   <details>
