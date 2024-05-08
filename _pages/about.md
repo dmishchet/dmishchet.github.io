@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">  
-I am a student in the Research Master in Legal Research at Utrecht University.
+Currently, I am a student in the Research Master in Legal Research at Utrecht University. I have received a bachelor's degree in law, a master's degree in private international law and arbitration, and a master's degree in comparative social research.
 </p>
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
