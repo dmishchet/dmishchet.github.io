@@ -29,7 +29,7 @@ My research interests lie in the field of quantitative empirical legal studies, 
     </p>
   </details>
 
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://dmishchet.github.io/Shchetinin_case_law_analysis.pdf">Case Law Trends on Recognition and Enforcement of Foreign Arbitral Awards in the Russian Federation (in Russian) </a></h3>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://github.com/dmishchet/dmishchet.github.io/blob/2b37f814303829d0a844c89ae041e3156504aad4/Shchetinin_case_law_analysis.pdf">Case Law Trends on Recognition and Enforcement of Foreign Arbitral Awards in the Russian Federation (in Russian) </a></h3>
   <p style="margin-bottom: 0; padding-left: 30px;">Matters of Russian and International Law, 2020</p>
   
   <details>
