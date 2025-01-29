@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <p align="justify">  
-Currently, I am a student in the Research Master in Legal Research at Utrecht University. I have received a bachelor's degree in law, a master's degree in private international law and arbitration, and a master's degree in comparative social research.
+I am a Ph.D. candidate in Sociology at the School of Social and Behavioral Sciences, Erasmus University Rotterdam. I am a socio-legal scholar with an interest in empirical legal studies and criminology. 
+
+I have a bachelor's degree in law, a master's degree in private international law, comparative social research, and legal research.
 </p>
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Upcoming conferences</h2>
