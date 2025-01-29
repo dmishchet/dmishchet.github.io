@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 <p align="justify">  
-My research interests lie in the field of quantitative empirical legal studies, criminology, judicial politics, private and public international law.
+My research interests lie in the fields of quantitative empirical legal studies, criminology, judicial politics, private and public international law.
 </p>
 
 <h2 style="margin-top: 30px; font-weight: normal;">Work in Progress</h2>
 
 <div style="padding-left: 0px;"> 
   
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">The Impact of Armed Conflicts on International Commercial Disputes: Evidence from Crimea</h3> 
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">The Impact of Armed Conflict on Judicial Behaviour: Evidence from Crimea</h3> 
 
-<h2 style="margin-top: 30px; font-weight: normal;">Publications</h2>
+<h2 style="margin-top: 30px; font-weight: normal;">Pre-PhD Publications</h2>
 
 <div style="padding-left: 0px;"> 
   
