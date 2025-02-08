@@ -19,7 +19,7 @@ My research interests lie in the fields of quantitative empirical legal studies,
 
 <div style="padding-left: 0px;"> 
   
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">Are Debtor-State Relations a Ground to Apply Public Policy Clause? (in Russian)</h3> 
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;"><a href="https://dmishchet.github.io/pdf.pdf">Are Debtor-State Relations a Ground to Apply Public Policy Clause? (in Russian)</a></h3> 
   <p style="margin-bottom: 0; padding-left: 30px;">Arbitration Law Journal, 2021</p>
   
   <details>
