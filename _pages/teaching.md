@@ -14,5 +14,4 @@ My teaching interests primarily lie in the field of international law, empirical
 
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Higher School of Economics</h2>
 
-- FDI Moot 2024
-- FDI Moot 2023
+- Foreign Direct Investment (FDI) Moot Court, 2023-2024
