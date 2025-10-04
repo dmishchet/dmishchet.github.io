@@ -4,10 +4,10 @@ title:
 author_profile: true
 ---
 
-<h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
+<h2 style="margin-top: 0; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0;"> 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Judicial Behaviour</h3>
- <!--  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b></i></p> -->
+ <!--  <p style="margin-bottom: 0;"><i><b>Name of the Journal</b></i></p> -->
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
@@ -18,11 +18,16 @@ author_profile: true
       </div>
     </li>
   </ul>
+    <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research on Repression, Surveillance and Censorship in Contemporary Russia</a>; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award for Best Young Scholar of Italian Society of Law and Economics</a>; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention in Nappert Prize in International Arbitration</a></li>
+    </ul>
+  </div>
 </div>
 
 
 <!-- Working Papers Section -->
-<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Working Papers</h2>
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Pre-PhD Publications</h2>
 <div style="padding-left: 0px;"> 
   
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
