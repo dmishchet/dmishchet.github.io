@@ -6,33 +6,16 @@ author_profile: true
 
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
 <div style="padding-left: 0;"> 
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
-    <a href="https://stnavdeev.github.io/Spillovers.pdf">Spillovers in Fields of Study: Siblings, Cousins, and Neighbors</a>
-  </h3>
-  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b></i></p>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Judicial Behaviour</h3>
+ <!--  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b></i></p> -->
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="abstractContent" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
-          We use admission lotteries for higher education studies in the Netherlands to investigate whether someone’s field of study influences the study choices of their younger peers. We find that younger siblings and cousins are strongly affected. Also younger neighbors are affected but to a smaller extent. These findings indicate that a substantial part of the correlations in study choices between family members can be attributed to spillover effects and are not due to shared environments. Our findings concur with those of recent studies based on admission thresholds, which find sibling spillovers on college or college-major choices. This indicates that the results from previous studies can be extrapolated to students away from admission thresholds, and from siblings to cousins and neighbors.
+          Rules only matter if they are enforced, and cross-border commerce rests on that principle. With the growing number of international conflicts, it is crucial to know whether this principle still holds in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. These effects vary with judge ethnicity and court location. We identify two mechanisms driving these patterns: increased use of judicial discretion and disruptions in cross-border communication. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and the enforcement of commercial treaties.
         </p>
       </div>
-    </li>
-    <li>
-      Co-authors:
-      <a href="https://sites.google.com/site/nadineketel/" style="color: black;">Nadine Ketel</a>, 
-      <a href="https://oosterbeek.economists.nl" style="color: black;">Hessel Oosterbeek</a>, and 
-      <a href="https://sites.google.com/view/basvanderklaauw/home" style="color: black;">Bas van der Klaauw</a>
-    </li>
-    <li>
-      Podcast:
-      <a href="https://open.spotify.com/episode/5te3DXveyIpLulPIqOuXZH?si=2CYU3HwdQFCPI9gQCF7r9g" style="color: black;">Spotify</a>, <a href="https://podcasts.apple.com/nl/podcast/papers-to-podcast/id1811001985?i=1000705162278" style="color: black;">Apple</a>
-    </li>
-    <li>
-      Media:
-      <a href="https://cepr.org/voxeu/columns/peer-effects-field-study-choices" style="color: black;">VoxEU</a>, 
-      <a href="https://ase.uva.nl/content/news/2024/09/spillover-effects-when-choosing-a-field-of-study.html" style="color: black;">Amsterdam School of Economics</a>
     </li>
   </ul>
 </div>
