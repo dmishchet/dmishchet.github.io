@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 <p align="justify">  
-I am a Ph.D. candidate in Sociology at the School of Social and Behavioral Sciences, Erasmus University Rotterdam. I am a socio-legal scholar with an interest in quantitative empirical legal studies, criminology, and judicial politics. <br> 
+I am a PhD candidate in Sociology at the School of Social and Behavioral Sciences, Erasmus University Rotterdam. I am a socio-legal scholar with an interest in quantitative empirical legal studies, criminology, judicial politics, private and public international law.<br> 
 
 <br>
-You can reach me at dmishchet[at]gmail.com
-
+You can reach me at <a href="mailto:dmishchet@gmail.com" style="color: black;">dmishchet@gmail.com</a>
 </p>
 
 <!--
