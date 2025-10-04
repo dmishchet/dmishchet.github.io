@@ -60,8 +60,8 @@ author_profile: true
   <p style="margin-bottom: 0;"><i><b>Matters of Russian and International Law</b></i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 0;">
+      Abstract: <a href="#" id="toggleAbstractWPButton1" onclick="toggleVisibility('abstractWPContent1','toggleAbstractWPButton1'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractWPContent1" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           The study explores the case law of Russian arbitrazh (commercial) courts in enforcing foreign arbitral awards. The first part of the study delves into the legal regulations governing these relationships, assesses the outcomes of claims submitted to arbitrazh courts, and discusses the timelines for their resolution. It also identifies the preferred countries for arbitration according to Russian parties. The second part focuses on the public policy exception, examining its role and significance through case law and legal doctrine. The study highlights instances where courts have incorrectly interpreted this exception, in effect re-evaluating cases on merits. Although Russian courts implement interim measures on the assets of Russian debtors at foreign arbitration institutions – seemingly to ensure timely enforcement of decisions – this intended facilitation does not typically materialize.
         </p>
