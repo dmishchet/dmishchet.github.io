@@ -42,7 +42,7 @@ author_profile: true
   <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://dmishchet.github.io/pdf.pdf">Are Debtor-State Relations a Ground to Apply Public Policy Clause? (in Russian)</a>
   </h3>
-<p style="margin-bottom: 0;"><i><b>Arbitration Law Journal</b></i></p>
+<p style="margin-bottom: 0;"><i><b>Arbitration Law Journal</b></i>, 2021</p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
@@ -57,7 +57,7 @@ author_profile: true
  <h3 style="margin-top: 15px; margin-bottom: 5px; font-weight: normal;">
     <a href="https://dmishchet.github.io/Shchetinin_case_law_analysis.pdf">Case Law Trends on Recognition and Enforcement of Foreign Arbitral Awards in the Russian Federation (in Russian)</a>
   </h3>
-  <p style="margin-bottom: 0;"><i><b>Matters of Russian and International Law</b></i></p>
+  <p style="margin-bottom: 0;"><i><b>Matters of Russian and International Law</b></i>, 2020</p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractWPButton1" onclick="toggleVisibility('abstractWPContent1','toggleAbstractWPButton1'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
