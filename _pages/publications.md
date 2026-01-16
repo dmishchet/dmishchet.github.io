@@ -34,7 +34,7 @@ author_profile: true
 
 <div style="padding-left: 0;"> 
     <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">
-  <a href="https://dmishchet.github.io/pdf.pdf">From Suspicion to Imprisonment: A Statistical Study into the Influence of Migration Background on Outcomes in the Dutch Criminal Justice System (Full text only available in Dutch) </a> </h3>
+  <a href="https://repository.wodc.nl/handle/20.500.12832/3457">From Suspicion to Imprisonment: A Statistical Study into the Influence of Migration Background on Outcomes in the Dutch Criminal Justice System (Full text only available in Dutch) </a> </h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>
@@ -52,8 +52,6 @@ author_profile: true
         </li>
     </ul>
   </div>
-
-https://repository.wodc.nl/handle/20.500.12832/3457
   
 </div>
 
