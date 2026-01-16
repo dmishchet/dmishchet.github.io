@@ -48,8 +48,8 @@ author_profile: true
       <li>Co-authors: <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;">Petra de Jong</a>, 
         <a href="https://www.arjenleerkes.nl" style="color: black;">Arjen Leerkes</a>,
         <a>Willemijn Bezemer</a>,
-        <a>Niels Netten</a>, 
-        </li>,
+        <a>Niels Netten</a> 
+        </li>
     </ul>
   </div>
 
