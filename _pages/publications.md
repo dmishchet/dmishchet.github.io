@@ -32,6 +32,22 @@ author_profile: true
 
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0;"> 
+
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">From Distant Courts to Local Justice: The Impact of Community Courts on Offenders and Neighbourhoods </h3>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+    </ul>
+  </div>
+
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Cumulative Disadvantage in Youth Justice: Migration, Class and Intersectionality</h3>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Co-authors: <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;">Petra de Jong</a>, 
+        <a href="https://www.arjenleerkes.nl" style="color: black;">Arjen Leerkes</a></li>
+    </ul>
+  </div>
+
+    
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Judicial Behaviour</h3>
  <!--  <p style="margin-bottom: 0;"><i><b>Name of the Journal</b></i></p> -->
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
@@ -50,13 +66,7 @@ author_profile: true
     </ul>
   </div>
 
-  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Cumulative Disadvantage in Youth Justice: Migration, Class and Intersectionality</h3>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Co-authors: <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;">Petra de Jong</a>, 
-        <a href="https://www.arjenleerkes.nl" style="color: black;">Arjen Leerkes</a></li>
-    </ul>
-  </div>
+
 
 
 <!-- Working Papers Section -->
