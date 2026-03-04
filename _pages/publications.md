@@ -34,27 +34,27 @@ author_profile: true
 <div style="padding-left: 0;"> 
 
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">From Distant Courts to Local Justice: The Impact of Community Courts on Offenders and Neighbourhoods </h3>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-        
-    </ul>
-  </div>
+
 
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Cumulative Disadvantage in Youth Justice: Migration, Class and Intersectionality</h3>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+<div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Co-authors: <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;">Petra de Jong</a>, 
-        <a href="https://www.arjenleerkes.nl" style="color: black;">Arjen Leerkes</a>
-      Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractContent" style="display: none; margin-top: 5px; margin-left: 0;">
+      <li>
+      Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
-      Institutions that produce sequential outcomes, such as education, labour markets, and criminal justice, can generate cumulative disadvantage when small initial inequalities are amplified at later stages. Yet, research on sanctioning disparities often focuses narrowly on ethno-racial differences, overlooks socio-economic stratification, and seldom examines how disparities unfold across multiple decision points. Drawing on detailed Dutch administrative data covering all 12–17-year-olds suspected of a first offence between 2010 and 2022, this study analyses how migration background and socio-economic status shape youths’ trajectories as they move through police, prosecutorial, and judicial stages of case processing. We test whether disadvantage accumulates both processually (across successive decisions) and intersectionally (through combinations of status characteristics), following DiPrete and Eirich’s (2006) distinction between path-dependent and status-dependent cumulative disadvantage. Results show that second-generation migrants and youths in vocational education face elevated risks of advancing at multiple stages, with the largest disparities emerging at the earliest decision point. Courts partially correct disparities for first-generation suspects but not for those in lower educational tracks. Intersectional patterns are additive rather than multiplicative. Overall, Dutch juvenile justice functions as a multi-stage stratifying institution in which early differences, linked to migration background and educational pathways, produce durable inequalities in outcomes.
-                </p>
-          </div>
-      </li>
+                Institutions that produce sequential outcomes, such as education, labour markets, and criminal justice, can generate cumulative disadvantage when small initial inequalities are amplified at later stages. Yet, research on sanctioning disparities often focuses narrowly on ethno-racial differences, overlooks socio-economic stratification, and seldom examines how disparities unfold across multiple decision points. Drawing on detailed Dutch administrative data covering all 12–17-year-olds suspected of a first offence between 2010 and 2022, this study analyses how migration background and socio-economic status shape youths’ trajectories as they move through police, prosecutorial, and judicial stages of case processing. We test whether disadvantage accumulates both processually (across successive decisions) and intersectionally (through combinations of status characteristics), following DiPrete and Eirich’s (2006) distinction between path-dependent and status-dependent cumulative disadvantage. Results show that second-generation migrants and youths in vocational education face elevated risks of advancing at multiple stages, with the largest disparities emerging at the earliest decision point. Courts partially correct disparities for first-generation suspects but not for those in lower educational tracks. Intersectional patterns are additive rather than multiplicative. Overall, Dutch juvenile justice functions as a multi-stage stratifying institution in which early differences, linked to migration background and educational pathways, produce durable inequalities in outcomes.
+        </p>
+      </div>
+    </li>
+      <li>Co-authors: 
+        <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;"> Petra de Jong</a>, 
+        <a href="https://www.arjenleerkes.nl" style="color: black;"> Arjen Leerkes</a>
+        </li>
     </ul>
   </div>
-
+  
+</div>
     
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Judicial Behaviour</h3>
  <!--  <p style="margin-bottom: 0;"><i><b>Name of the Journal</b></i></p> -->
