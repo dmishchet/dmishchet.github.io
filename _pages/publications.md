@@ -4,32 +4,6 @@ title:
 author_profile: true
 ---
 
-<h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
-<div style="padding-left: 0;"> 
-<div style="padding-left: 0;"> 
-    <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">
-  <a href="https://repository.wodc.nl/handle/20.500.12832/3457">From Suspicion to Imprisonment: A Statistical Study into the Influence of Migration Background on Outcomes in the Dutch Criminal Justice System (Full text only available in Dutch) </a> </h3>
-  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>
-      Abstract: <a href="#" id="toggleAbstractWPButton" onclick="toggleVisibility('abstractWPContent','toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
-          This study focuses on the influence of migration background and national origin on criminal justice outcomes in the Netherlands. It has long been known that certain groups with a migration background are overrepresented in Dutch detention centres. Findings from previous research suggest that part of this overrepresentation is due to selection processes after individuals have come into contact with the justice system. Ethnic selectivity in the criminal justice process can lead to the overrepresentation of individuals with a migration background in prisons being higher than in police arrests - phenomenon known as cumulative overrepresentation. This study examined 1) whether such patterns of cumulative overrepresentation exist among minors and adults in the criminal justice system and 2) what the reasons for such patterns are.
-        </p>
-      </div>
-    </li>
-      <li>Co-authors: <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;">Petra de Jong</a>, 
-        <a href="https://www.arjenleerkes.nl" style="color: black;">Arjen Leerkes</a>,
-        <a>Willemijn Bezemer</a>,
-        <a>Niels Netten</a> 
-        </li>
-    </ul>
-  </div>
-  
-</div>
-
-
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0;"> 
 
@@ -56,7 +30,7 @@ author_profile: true
   
 </div>
     
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Judicial Behaviour</h3>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
  <!--  <p style="margin-bottom: 0;"><i><b>Name of the Journal</b></i></p> -->
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
@@ -73,6 +47,32 @@ author_profile: true
       <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research</a> on Repression, Surveillance and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award</a> for Best Young Scholar of Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention in Nappert Prize</a> in International Arbitration</li>
     </ul>
   </div>
+
+
+<h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Policy Research</h2>
+<div style="padding-left: 0;"> 
+<div style="padding-left: 0;"> 
+    <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">
+  <a href="https://repository.wodc.nl/handle/20.500.12832/3457">From Suspicion to Imprisonment: A Statistical Study into the Influence of Migration Background on Outcomes in the Dutch Criminal Justice System (Full text only available in Dutch) </a> </h3>
+  <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>
+      Abstract: <a href="#" id="toggleAbstractWPButton1" onclick="toggleVisibility('abstractWPContent1','toggleAbstractWPButton1'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          This study focuses on the influence of migration background and national origin on criminal justice outcomes in the Netherlands. It has long been known that certain groups with a migration background are overrepresented in Dutch detention centres. Findings from previous research suggest that part of this overrepresentation is due to selection processes after individuals have come into contact with the justice system. Ethnic selectivity in the criminal justice process can lead to the overrepresentation of individuals with a migration background in prisons being higher than in police arrests - phenomenon known as cumulative overrepresentation. This study examined 1) whether such patterns of cumulative overrepresentation exist among minors and adults in the criminal justice system and 2) what the reasons for such patterns are.
+        </p>
+      </div>
+    </li>
+      <li>Co-authors: <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;">Petra de Jong</a>, 
+        <a href="https://www.arjenleerkes.nl" style="color: black;">Arjen Leerkes</a>,
+        <a style="color: black;">Willemijn Bezemer</a>,
+        <a style="color: black;">Niels Netten</a> 
+        </li>
+    </ul>
+  </div>
+  
+</div>
 
 
 
