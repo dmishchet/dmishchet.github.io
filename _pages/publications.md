@@ -39,6 +39,9 @@ author_profile: true
         </p>
       </div>
     </li>
+    <li>Co-author: 
+        <a href="https://stnavdeev.com" style="color: black;"> Stanislav Avdeev</a>
+        </li>
   </ul>
     <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
