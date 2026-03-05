@@ -7,7 +7,7 @@ author_profile: true
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0;"> 
 
-  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">From Distant Courts to Local Justice: The Impact of Community Courts on Offenders and Neighbourhoods </h3>
+  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">From Distant Courts to Local Justice: The Impact of Community Courts on Offenders and Neighbourhoods </h3>
 
 
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Cumulative Disadvantage in Youth Justice: Migration, Class and Intersectionality</h3>
@@ -28,12 +28,12 @@ author_profile: true
     </ul>
   </div>
     
-  <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
  <!--  <p style="margin-bottom: 0;"><i><b>Name of the Journal</b></i></p> -->
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: <a href="#" id="toggleAbstractButton" onclick="toggleVisibility('abstractContent','toggleAbstractButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractContent" style="display: none; margin-top: 5px; margin-left: 0;">
+      Abstract: <a href="#" id="toggleAbstractButton3" onclick="toggleVisibility('abstractContent3','toggleAbstractButton3'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractContent3" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           Rules only matter if they are enforced, and cross-border commerce rests on that principle. With the growing number of international conflicts, it is crucial to know whether this principle still holds in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. These effects vary with judge ethnicity and court location. We identify two mechanisms driving these patterns: increased use of judicial discretion and disruptions in cross-border communication. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and the enforcement of commercial treaties.
         </p>
@@ -53,13 +53,13 @@ author_profile: true
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Policy Research</h2>
 <div style="padding-left: 0;"> 
 <div style="padding-left: 0;"> 
-    <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">
+    <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">
   <a href="https://repository.wodc.nl/handle/20.500.12832/3457">From Suspicion to Imprisonment: A Statistical Study into the Influence of Migration Background on Outcomes in the Dutch Criminal Justice System (Full text only available in Dutch) </a> </h3>
   <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>
       Abstract: <a href="#" id="toggleAbstractWPButton2" onclick="toggleVisibility('abstractWPContent2','toggleAbstractWPButton2'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractWPContent" style="display: none; margin-top: 5px; margin-left: 0;">
+      <div id="abstractWPContent2" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           This study focuses on the influence of migration background and national origin on criminal justice outcomes in the Netherlands. It has long been known that certain groups with a migration background are overrepresented in Dutch detention centres. Findings from previous research suggest that part of this overrepresentation is due to selection processes after individuals have come into contact with the justice system. Ethnic selectivity in the criminal justice process can lead to the overrepresentation of individuals with a migration background in prisons being higher than in police arrests - phenomenon known as cumulative overrepresentation. This study examined 1) whether such patterns of cumulative overrepresentation exist among minors and adults in the criminal justice system and 2) what the reasons for such patterns are.
         </p>
