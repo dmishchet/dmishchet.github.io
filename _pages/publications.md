@@ -48,6 +48,26 @@ author_profile: true
       <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research</a> on Repression, Surveillance and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award</a> for Best Young Scholar of Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention in Nappert Prize</a> in International Arbitration</li>
     </ul>
   </div>
+
+  
+<h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Restoration of Historical Justice and Tort Law: The Case of the Children of GULAG Victims </h3>
+
+<div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>
+      Abstract: <a href="#" id="gulag" onclick="toggleVisibility('gulag_dis','gulag'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="gulag_dis" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+                Tort law in Russia is primarily applied in the context of compensating classic types of harm: personal injury, property damage, and moral harm. Foreign scholarship identifies a new category of cases in which tort law may be quite promising - compensation for harm resulting from historical injustice. Unfortunately, the history of the Russian Federation contains several such examples.
+          
+In this paper, I examine the mass political repressions of the Soviet period. Despite the fact that almost a century has passed, we still encounter the consequences of these repressions. The case of the children of Gulag victims is a relevant example of how harm inflicted on parents can extend over time, increasing the number of victims.
+
+This article is inspired by the work of M. Loth on the use of tort law to compensate for the consequences of historical injustices, such as slavery and systematic discrimination. In the article, I consider the obstacles that may arise within the framework of Russian tort law, analyze possible legal remedies, and discuss the need to expand tort law to other examples of historical injustice. </p>
+</div>
+    </li>
+    </ul>
+  </div>
+
 </div>
 
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Policy Research</h2>
@@ -72,6 +92,7 @@ author_profile: true
         </li>
     </ul>
   </div>
+
   
 </div>
 
