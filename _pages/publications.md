@@ -59,8 +59,9 @@ author_profile: true
           This article examines whether armed conflict can legitimately justify refusal of recognition and enforcement of foreign arbitral awards on grounds of public policy. Although wartime conditions intensify concerns relating to sovereignty, national security, and sanctions, they do not justify a general departure from the pro-enforcement logic of the New York Convention. Drawing on the treaty objectives, scholarship on public policy, and comparative wartime case law, the article argues that armed conflict should matter only through a disciplined legal inquiry rather than through abstract appeals to hostility, political emergency, or national interest.
           
 The article develops a structured framework for wartime public policy analysis. Courts should identify the precise norm allegedly endangered by enforcement, determine whether the alleged harm arises from enforcement itself rather than merely from the claimant’s nationality or associations, assess the proximity of the dispute to the forum and the seriousness of the threatened harm, and consider less restrictive alternatives to outright refusal. Applying that framework, the article distinguishes among nationality-based objections, national-security arguments, defence-industry cases, and sanctions-related disputes. It concludes that only a narrow category of cases, especially those involving direct support for a belligerent’s defence industry, presents a convincing basis for refusal, while many sanctions cases are better addressed through conditional enforcement or suspended enforcement.
-        </p>
-      </div>
+ </p>
+</div>
+    </li>
     </ul>
   </div>
   
