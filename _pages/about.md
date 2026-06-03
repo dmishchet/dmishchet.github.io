@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="justify">  
-I am a PhD candidate in Criminology at the School of Social and Behavioral Sciences, Erasmus University Rotterdam. I am a socio-legal scholar with an interest in quantitative empirical legal studies, criminology, judicial politics, private and public international law.<br> 
+My name is Dmitrii Shchetinin, and I am a PhD candidate in Criminology at the School of Social and Behavioral Sciences, Erasmus University Rotterdam. I am a socio-legal scholar with interests in quantitative empirical legal studies, criminology, judicial politics, private and public international law. In particular, my research examines justice professionals, legal institutions and policies, and dispute resolution from a quantitative perspective, combining quasi-experimental causal designs with survey and administrative data.<br> 
 
 <br>
 You can reach me at <a href="mailto:dmishchet@gmail.com" style="color: black;">dmishchet@gmail.com</a>
