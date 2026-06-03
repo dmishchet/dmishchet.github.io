@@ -55,7 +55,7 @@ author_profile: true
     <li>
       Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent6','toggleAbstractButton6'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="abstractContent6" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
+        <p align="justify" style="margin-bottom: 14px;">
           This article examines whether armed conflict can legitimately justify refusal of recognition and enforcement of foreign arbitral awards on grounds of public policy. Although wartime conditions intensify concerns relating to sovereignty, national security, and sanctions, they do not justify a general departure from the pro-enforcement logic of the New York Convention. Drawing on the treaty objectives, scholarship on public policy, and comparative wartime case law, the article argues that armed conflict should matter only through a disciplined legal inquiry rather than through abstract appeals to hostility, political emergency, or national interest.
 </p>
 
@@ -73,11 +73,11 @@ The article develops a structured framework for wartime public policy analysis. 
       <li>
       Abstract: <a href="#" id="gulag" onclick="toggleVisibility('gulag_dis','gulag'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="gulag_dis" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
+        <p align="justify" style="margin-bottom: 14px;">
                 Tort law in Russia is primarily applied in the context of compensating classic types of harm: personal injury, property damage, and moral harm. Foreign scholarship identifies a new category of cases in which tort law may be quite promising - compensation for harm resulting from historical injustice. Unfortunately, the history of the Russian Federation contains several such examples.
 </p>
 
-  <p style="text-align: justify; margin-bottom: 0;">                 
+  <p style="text-align: justify; margin-bottom: 14px;">                 
 In this paper, I examine the mass political repressions of the Soviet period. Despite the fact that almost a century has passed, we still encounter the consequences of these repressions. The case of the children of Gulag victims is a relevant example of how harm inflicted on parents can extend over time, increasing the number of victims.
 </p>
 
