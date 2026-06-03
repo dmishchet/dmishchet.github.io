@@ -57,14 +57,16 @@ author_profile: true
       <div id="abstractContent6" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
           This article examines whether armed conflict can legitimately justify refusal of recognition and enforcement of foreign arbitral awards on grounds of public policy. Although wartime conditions intensify concerns relating to sovereignty, national security, and sanctions, they do not justify a general departure from the pro-enforcement logic of the New York Convention. Drawing on the treaty objectives, scholarship on public policy, and comparative wartime case law, the article argues that armed conflict should matter only through a disciplined legal inquiry rather than through abstract appeals to hostility, political emergency, or national interest.
-          
+</p>
+
+  <p style="text-align: justify; margin-bottom: 0;">          
 The article develops a structured framework for wartime public policy analysis. Courts should identify the precise norm allegedly endangered by enforcement, determine whether the alleged harm arises from enforcement itself rather than merely from the claimant’s nationality or associations, assess the proximity of the dispute to the forum and the seriousness of the threatened harm, and consider less restrictive alternatives to outright refusal. Applying that framework, the article distinguishes among nationality-based objections, national-security arguments, defence-industry cases, and sanctions-related disputes. It concludes that only a narrow category of cases, especially those involving direct support for a belligerent’s defence industry, presents a convincing basis for refusal, while many sanctions cases are better addressed through conditional enforcement or suspended enforcement.
  </p>
 </div>
     </li>
     </ul>
   
-<h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Restoration of Historical Justice and Tort Law: The Case of the Children of GULAG Victims </h3>
+<h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Restoration of Historical Justice and Tort Law: The Case of the Children of GULAG Victims </h3>
 
 <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
@@ -73,9 +75,13 @@ The article develops a structured framework for wartime public policy analysis. 
       <div id="gulag_dis" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
                 Tort law in Russia is primarily applied in the context of compensating classic types of harm: personal injury, property damage, and moral harm. Foreign scholarship identifies a new category of cases in which tort law may be quite promising - compensation for harm resulting from historical injustice. Unfortunately, the history of the Russian Federation contains several such examples.
-          
-In this paper, I examine the mass political repressions of the Soviet period. Despite the fact that almost a century has passed, we still encounter the consequences of these repressions. The case of the children of Gulag victims is a relevant example of how harm inflicted on parents can extend over time, increasing the number of victims.
+</p>
 
+  <p style="text-align: justify; margin-bottom: 0;">                 
+In this paper, I examine the mass political repressions of the Soviet period. Despite the fact that almost a century has passed, we still encounter the consequences of these repressions. The case of the children of Gulag victims is a relevant example of how harm inflicted on parents can extend over time, increasing the number of victims.
+</p>
+
+  <p style="text-align: justify; margin-bottom: 0;">       
 This article is inspired by the work of M. Loth on the use of tort law to compensate for the consequences of historical injustices, such as slavery and systematic discrimination. In the article, I consider the obstacles that may arise within the framework of Russian tort law, analyze possible legal remedies, and discuss the need to expand tort law to other examples of historical injustice. </p>
 </div>
     </li>
