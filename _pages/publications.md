@@ -63,7 +63,6 @@ The article develops a structured framework for wartime public policy analysis. 
 </div>
     </li>
     </ul>
-  </div>
   
 <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Restoration of Historical Justice and Tort Law: The Case of the Children of GULAG Victims </h3>
 
