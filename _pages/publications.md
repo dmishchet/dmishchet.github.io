@@ -28,7 +28,6 @@ author_profile: true
       <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research</a> on Repression, Surveillance and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award</a> for Best Young Scholar of Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention in Nappert Prize</a> in International Arbitration</li>
     </ul>
   </div>
-  </ul>
 </div>
 
   
