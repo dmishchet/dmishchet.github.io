@@ -4,6 +4,34 @@ title:
 author_profile: true
 ---
 
+<h2 style="margin-top: 0; font-weight: bold; text-align: left;">Publications</h2>
+<div style="padding-left: 0;"> 
+    <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
+     <a href="https://dmishchet.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
+        </h3>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> (Conditionally Accepted)</i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractButton3" onclick="toggleVisibility('abstractContent3','toggleAbstractButton3'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractContent3" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+          International trade depends on the expectation that courts will protect commercial interests when disputes arise. With the growing number of international conflicts, it is crucial to know whether this expectation is met in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. We show that courts increasingly justified refusals through discretionary legal grounds and undue-notification claims. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and compliance with commercial treaties.
+        </p>
+      </div>
+    </li>
+    <li>Co-author: 
+        <a href="https://stnavdeev.com" style="color: black;"> Stanislav Avdeev</a>
+        </li>
+  </ul>
+    <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research</a> on Repression, Surveillance and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award</a> for Best Young Scholar of Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention in Nappert Prize</a> in International Arbitration</li>
+    </ul>
+  </div>
+  </ul>
+</div>
+
+  
 <h2 style="margin-top: 0; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0;"> 
 
@@ -25,27 +53,6 @@ author_profile: true
         <a href="https://www.eur.nl/people/petra-de-jong" style="color: black;"> Petra de Jong</a>, 
         <a href="https://www.arjenleerkes.nl" style="color: black;"> Arjen Leerkes</a>
         </li>
-    </ul>
-  </div>
-    
-  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</h3>
- <!--  <p style="margin-bottom: 0;"><i><b>Name of the Journal</b></i></p> -->
-  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractButton3" onclick="toggleVisibility('abstractContent3','toggleAbstractButton3'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractContent3" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 0;">
-          Rules only matter if they are enforced, and cross-border commerce rests on that principle. With the growing number of international conflicts, it is crucial to know whether this principle still holds in practice. We examine the effect of the 2014 annexation of Crimea on the enforcement rate of foreign decisions by Russian and Ukrainian judges. We assemble novel data on the entire universe of Russian and Ukrainian court decisions concerning the enforcement of foreign decisions resolving cross-border commercial disputes. Using a difference-in-differences design, we find that the enforcement rate of Ukrainian (Russian) decisions in Russia (Ukraine) fell by 26% (33%) after the annexation. These effects vary with judge ethnicity and court location. We identify two mechanisms driving these patterns: increased use of judicial discretion and disruptions in cross-border communication. Our findings provide the first causal evidence that international conflict affects both judicial decision-making and the enforcement of commercial treaties.
-        </p>
-      </div>
-    </li>
-    <li>Co-author: 
-        <a href="https://stnavdeev.com" style="color: black;"> Stanislav Avdeev</a>
-        </li>
-  </ul>
-    <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
-    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research</a> on Repression, Surveillance and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award</a> for Best Young Scholar of Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention in Nappert Prize</a> in International Arbitration</li>
     </ul>
   </div>
 
