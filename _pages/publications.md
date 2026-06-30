@@ -30,6 +30,23 @@ author_profile: true
   </div>
 </div>
 
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Public Policy and Armed Conflict: A Doctrinal Inquiry into the Boundaries of Enforcement</h3>
+ <p style="margin-bottom: 0;"><i><b>Netherlands International Law Review</b> (Accepted)</i></p>
+  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
+    <li>
+      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent6','toggleAbstractButton6'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractContent6" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 14px;">
+          This article examines whether armed conflict can legitimately justify refusal of recognition and enforcement of foreign arbitral awards on grounds of public policy. Although wartime conditions intensify concerns relating to sovereignty, national security, and sanctions, they do not justify a general departure from the pro-enforcement logic of the New York Convention. Drawing on the treaty objectives, scholarship on public policy, and comparative wartime case law, the article argues that armed conflict should matter only through a disciplined legal inquiry rather than through abstract appeals to hostility, political emergency, or national interest.
+</p>
+
+  <p style="text-align: justify; margin-bottom: 0;">          
+The article develops a structured framework for wartime public policy analysis. Courts should identify the precise norm allegedly endangered by enforcement, determine whether the alleged harm arises from enforcement itself rather than merely from the claimant’s nationality or associations, assess the proximity of the dispute to the forum and the seriousness of the threatened harm, and consider less restrictive alternatives to outright refusal. Applying that framework, the article distinguishes among nationality-based objections, national-security arguments, defence-industry cases, and sanctions-related disputes. It concludes that only a narrow category of cases, especially those involving direct support for a belligerent’s defence industry, presents a convincing basis for refusal, while many sanctions cases are better addressed through conditional enforcement or suspended enforcement.
+ </p>
+</div>
+    </li>
+    </ul>
+
   
 <h2 style="margin-top: 50px; font-weight: bold; text-align: left;">Work in Progress</h2>
 <div style="padding-left: 0;"> 
@@ -55,22 +72,7 @@ author_profile: true
     </ul>
   </div>
 
-  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Public Policy and Armed Conflict: A Doctrinal Inquiry into the Boundaries of Foreign Awards’ Enforcement</h3>
- <!--  <p style="margin-bottom: 0;"><i><b>Name of the Journal</b></i></p> -->
-  <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
-    <li>
-      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent6','toggleAbstractButton6'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractContent6" style="display: none; margin-top: 5px; margin-left: 0;">
-        <p align="justify" style="margin-bottom: 14px;">
-          This article examines whether armed conflict can legitimately justify refusal of recognition and enforcement of foreign arbitral awards on grounds of public policy. Although wartime conditions intensify concerns relating to sovereignty, national security, and sanctions, they do not justify a general departure from the pro-enforcement logic of the New York Convention. Drawing on the treaty objectives, scholarship on public policy, and comparative wartime case law, the article argues that armed conflict should matter only through a disciplined legal inquiry rather than through abstract appeals to hostility, political emergency, or national interest.
-</p>
 
-  <p style="text-align: justify; margin-bottom: 0;">          
-The article develops a structured framework for wartime public policy analysis. Courts should identify the precise norm allegedly endangered by enforcement, determine whether the alleged harm arises from enforcement itself rather than merely from the claimant’s nationality or associations, assess the proximity of the dispute to the forum and the seriousness of the threatened harm, and consider less restrictive alternatives to outright refusal. Applying that framework, the article distinguishes among nationality-based objections, national-security arguments, defence-industry cases, and sanctions-related disputes. It concludes that only a narrow category of cases, especially those involving direct support for a belligerent’s defence industry, presents a convincing basis for refusal, while many sanctions cases are better addressed through conditional enforcement or suspended enforcement.
- </p>
-</div>
-    </li>
-    </ul>
   
 <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Restoration of Historical Justice and Tort Law: The Case of the Children of GULAG Victims </h3>
 
