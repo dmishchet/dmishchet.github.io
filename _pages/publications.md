@@ -30,7 +30,8 @@ author_profile: true
   </div>
 </div>
 
-  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Public Policy and Armed Conflict: A Doctrinal Inquiry into the Boundaries of Enforcement</h3>
+  <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">
+      <a href="https://dmishchet.github.io/Policy_Conflict.pdf">Public Policy and Armed Conflict: A Doctrinal Inquiry into the Boundaries of Enforcement</h3>
  <p style="margin-bottom: 0;"><i><b>Netherlands International Law Review</b> (Accepted)</i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
