@@ -25,7 +25,7 @@ author_profile: true
   </ul>
     <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
-      <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research</a> on Repression, Surveillance and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award</a> for Best Young Scholar of Italian Society of Law and Economics; <a href="https://www.mcgill.ca/law/research/essay-contests/nappert-prize-international-arbitration" style="color: black;">Honourable Mention in Nappert Prize</a> in International Arbitration</li>
+      <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Prize for Best PhD Research</a> on Repression, Surveillance and Censorship in Contemporary Russia; <a href="https://www.side-isle.it/brenno-galli-award" style="color: black;">Brenno Galli Award</a> for Best Young Scholar of Italian Society of Law and Economics; <a href="https://www.linkedin.com/posts/andrea-bjorklund-17a0123_we-are-pleased-to-announce-the-winners-of-share-7233120841054474240-pmoh/" style="color: black;">Honourable Mention in Nappert Prize</a> in International Arbitration</li>
     </ul>
   </div>
 </div>
@@ -36,8 +36,8 @@ author_profile: true
  <p style="margin-bottom: 0;"><i><b>Netherlands International Law Review</b> (Accepted)</i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent6','toggleAbstractButton6'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="abstractContent6" style="display: none; margin-top: 5px; margin-left: 0;">
+      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent9','toggleAbstractButton9'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="abstractContent9" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 14px;">
           This article examines whether armed conflict can legitimately justify refusal of recognition and enforcement of foreign arbitral awards on grounds of public policy. Although wartime conditions intensify concerns relating to sovereignty, national security, and sanctions, they do not justify a general departure from the pro-enforcement logic of the New York Convention. Drawing on the treaty objectives, scholarship on public policy, and comparative wartime case law, the article argues that armed conflict should matter only through a disciplined legal inquiry rather than through abstract appeals to hostility, political emergency, or national interest.
 </p>
@@ -64,9 +64,9 @@ The article develops a structured framework for wartime public policy analysis. 
         </p>
       </div>
     </li>
-      <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Göran Skogh Best Paper Award in Law & Economics</a> by European Association of Law and Economics</li>
+      <li>Awards: <a href="https://eale.org/eale-awards/goran-skogh-award" style="color: black;">Göran Skogh Best Paper Award in Law & Economics</a> by European Association of Law and Economics</li>
     </ul>
-
+  </div>
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Cumulative Disadvantage in Youth Justice: Migration, Class and Intersectionality</h3>
 <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
