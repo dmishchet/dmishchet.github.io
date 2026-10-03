@@ -9,7 +9,7 @@ author_profile: true
     <h3 style="margin-top: 7.5px; margin-bottom: 5px; font-weight: normal;">
      <a href="https://dmishchet.github.io/Conflict_and_Disputes.pdf">The Impact of International Conflict on Cross-Border Commercial Dispute Resolution</a>
         </h3>
-  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b> Vol. 260 </i></p>
+  <p style="margin-bottom: 0;"><i><b>Journal of Public Economics</b></I>, 2026</p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
       Abstract: <a href="#" id="toggleAbstractButton3" onclick="toggleVisibility('abstractContent3','toggleAbstractButton3'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
@@ -54,7 +54,18 @@ The article develops a structured framework for wartime public policy analysis. 
 <div style="padding-left: 0;"> 
 
   <h3 style="margin-top: 7.5px; margin-bottom: 5px; color: #b80057; font-weight: normal;">From Distant Courts to Local Justice: The Impact of Community Courts on Offenders and Neighbourhoods </h3>
-
+<div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
+    <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
+      <li>
+      Abstract: <a href="#" id="cumulative_dis_toggleAbstractWPButton" onclick="toggleVisibility('cumulative_dis','cumulative_dis_toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="cumulative_dis" style="display: none; margin-top: 5px; margin-left: 0;">
+        <p align="justify" style="margin-bottom: 0;">
+               Traditional courts often process repeated crimes in ways that are impersonal and poorly suited to addressing the underlying problems associated with repeated contact with the justice system. Community courts emerged as an alternative model that combines criminal adjudication with social support, yet rigorous evidence on their effectiveness remains limited. This study evaluates residence-based access to community courts in the Netherlands using a difference-in-differences design. I find that eligibility for community-court processing reduces recidivism by 3.7 percentage points and increases court attendance by 3.9 percentage points among eligible defen- dants, while increasing the use of community sanctions and reducing imprisonment. By contrast, I find no detectable short-run effects on defendants’ socio-economic characteristics, perceived neighbourhood quality, or trust in judges. The results suggest that community courts can reduce the “revolving door” problem in criminal justice, but are unlikely to automatically generate broader short-run neighbourhood effects.
+        </p>
+      </div>
+    </li>
+      <li>Awards: <a href="https://dshchetinin.com/research/" style="color: black;">Göran Skogh Best Paper Award in Law & Economics</a> by European Association of Law and Economics</li>
+    </ul>
 
   <h3 style="margin-top: 15px; margin-bottom: 5px; color: #b80057; font-weight: normal;">Cumulative Disadvantage in Youth Justice: Migration, Class and Intersectionality</h3>
 <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
