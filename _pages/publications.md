@@ -36,7 +36,7 @@ author_profile: true
  <p style="margin-bottom: 0;"><i><b>Netherlands International Law Review</b> (Accepted)</i></p>
   <ul style="padding-left: 20px; margin-top: 5px; margin-bottom: 0; font-size: 14px;">
     <li>
-      Abstract: <a href="#" id="toggleAbstractButton6" onclick="toggleVisibility('abstractContent9','toggleAbstractButton9'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      Abstract: <a href="#" id="toggleAbstractButton9" onclick="toggleVisibility('abstractContent9','toggleAbstractButton9'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
       <div id="abstractContent9" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 14px;">
           This article examines whether armed conflict can legitimately justify refusal of recognition and enforcement of foreign arbitral awards on grounds of public policy. Although wartime conditions intensify concerns relating to sovereignty, national security, and sanctions, they do not justify a general departure from the pro-enforcement logic of the New York Convention. Drawing on the treaty objectives, scholarship on public policy, and comparative wartime case law, the article argues that armed conflict should matter only through a disciplined legal inquiry rather than through abstract appeals to hostility, political emergency, or national interest.
@@ -57,8 +57,8 @@ The article develops a structured framework for wartime public policy analysis. 
 <div style="margin-top: 5px; padding-left: 0; font-size: 14px;">
     <ul style="padding-left: 20px; margin-top: 0; margin-bottom: 0;">
       <li>
-      Abstract: <a href="#" id="cumulative_dis_toggleAbstractWPButton" onclick="toggleVisibility('cumulative_dis','cumulative_dis_toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
-      <div id="cumulative_dis" style="display: none; margin-top: 5px; margin-left: 0;">
+      Abstract: <a href="#" id="distant_toggleAbstractWPButton" onclick="toggleVisibility('distant','distant_toggleAbstractWPButton'); return false;" style="text-decoration: underline; color: black; margin-left: 0;">Show</a>
+      <div id="distant" style="display: none; margin-top: 5px; margin-left: 0;">
         <p align="justify" style="margin-bottom: 0;">
                Traditional courts often process repeated crimes in ways that are impersonal and poorly suited to addressing the underlying problems associated with repeated contact with the justice system. Community courts emerged as an alternative model that combines criminal adjudication with social support, yet rigorous evidence on their effectiveness remains limited. This study evaluates residence-based access to community courts in the Netherlands using a difference-in-differences design. I find that eligibility for community-court processing reduces recidivism by 3.7 percentage points and increases court attendance by 3.9 percentage points among eligible defen- dants, while increasing the use of community sanctions and reducing imprisonment. By contrast, I find no detectable short-run effects on defendants’ socio-economic characteristics, perceived neighbourhood quality, or trust in judges. The results suggest that community courts can reduce the “revolving door” problem in criminal justice, but are unlikely to automatically generate broader short-run neighbourhood effects.
         </p>
